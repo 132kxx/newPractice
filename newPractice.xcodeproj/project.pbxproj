@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		B467C0A929B582E4005FE3CE /* newPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B467C0A829B582E4005FE3CE /* newPracticeApp.swift */; };
-		B467C0AB29B582E4005FE3CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B467C0AA29B582E4005FE3CE /* ContentView.swift */; };
 		B467C0AD29B582E6005FE3CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B467C0AC29B582E6005FE3CE /* Assets.xcassets */; };
 		B467C0B129B582E6005FE3CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B467C0B029B582E6005FE3CE /* Preview Assets.xcassets */; };
 		B46B37B629B5833700CF3EA3 /* BgMaterials.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379029B5833700CF3EA3 /* BgMaterials.swift */; };
@@ -48,12 +47,12 @@
 		B46B37D829B5833700CF3EA3 /* Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B329B5833700CF3EA3 /* Sheets.swift */; };
 		B46B37D929B5833700CF3EA3 /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B429B5833700CF3EA3 /* AsyncImageView.swift */; };
 		B46B37DA29B5833700CF3EA3 /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B529B5833700CF3EA3 /* DragGestureView.swift */; };
+		B46B37DC29B5932400CF3EA3 /* Hashablepra.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37DB29B5932400CF3EA3 /* Hashablepra.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		B467C0A529B582E4005FE3CE /* newPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = newPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B467C0A829B582E4005FE3CE /* newPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newPracticeApp.swift; sourceTree = "<group>"; };
-		B467C0AA29B582E4005FE3CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B467C0AC29B582E6005FE3CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B467C0AE29B582E6005FE3CE /* newPractice.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = newPractice.entitlements; sourceTree = "<group>"; };
 		B467C0B029B582E6005FE3CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -94,6 +93,7 @@
 		B46B37B329B5833700CF3EA3 /* Sheets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sheets.swift; sourceTree = "<group>"; };
 		B46B37B429B5833700CF3EA3 /* AsyncImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
 		B46B37B529B5833700CF3EA3 /* DragGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
+		B46B37DB29B5932400CF3EA3 /* Hashablepra.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hashablepra.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,9 +126,8 @@
 		B467C0A729B582E4005FE3CE /* newPractice */ = {
 			isa = PBXGroup;
 			children = (
-				B46B378F29B5833700CF3EA3 /* Views */,
 				B467C0A829B582E4005FE3CE /* newPracticeApp.swift */,
-				B467C0AA29B582E4005FE3CE /* ContentView.swift */,
+				B46B378F29B5833700CF3EA3 /* Views */,
 				B467C0AC29B582E6005FE3CE /* Assets.xcassets */,
 				B467C0AE29B582E6005FE3CE /* newPractice.entitlements */,
 				B467C0AF29B582E6005FE3CE /* Preview Content */,
@@ -147,6 +146,7 @@
 		B46B378F29B5833700CF3EA3 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				B46B379529B5833700CF3EA3 /* OnboardingViews */,
 				B46B379029B5833700CF3EA3 /* BgMaterials.swift */,
 				B46B379129B5833700CF3EA3 /* IfLetGuardpractice.swift */,
 				B46B379229B5833700CF3EA3 /* AppStoragePractice.swift */,
@@ -181,7 +181,7 @@
 				B46B37B329B5833700CF3EA3 /* Sheets.swift */,
 				B46B37B429B5833700CF3EA3 /* AsyncImageView.swift */,
 				B46B37B529B5833700CF3EA3 /* DragGestureView.swift */,
-				B46B379529B5833700CF3EA3 /* OnboardingViews */,
+				B46B37DB29B5932400CF3EA3 /* Hashablepra.swift */,
 			);
 			name = Views;
 			path = newPractice/Views;
@@ -270,6 +270,7 @@
 				B46B37BB29B5833700CF3EA3 /* ProfileView.swift in Sources */,
 				B46B37C429B5833700CF3EA3 /* badgeView.swift in Sources */,
 				B46B37B629B5833700CF3EA3 /* BgMaterials.swift in Sources */,
+				B46B37DC29B5932400CF3EA3 /* Hashablepra.swift in Sources */,
 				B46B37C729B5833700CF3EA3 /* LongGesture.swift in Sources */,
 				B46B37C229B5833700CF3EA3 /* FocusStateView.swift in Sources */,
 				B46B37D329B5833700CF3EA3 /* ContextMenuView.swift in Sources */,
@@ -277,7 +278,6 @@
 				B46B37DA29B5833700CF3EA3 /* DragGestureView.swift in Sources */,
 				B46B37B729B5833700CF3EA3 /* IfLetGuardpractice.swift in Sources */,
 				B46B37BD29B5833700CF3EA3 /* OnboardingView.swift in Sources */,
-				B467C0AB29B582E4005FE3CE /* ContentView.swift in Sources */,
 				B46B37D729B5833700CF3EA3 /* RotationGestureView.swift in Sources */,
 				B46B37BE29B5833700CF3EA3 /* PickerView.swift in Sources */,
 				B46B37D129B5833700CF3EA3 /* StateBootcamp.swift in Sources */,
