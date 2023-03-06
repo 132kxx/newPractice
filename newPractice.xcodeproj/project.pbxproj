@@ -11,6 +11,43 @@
 		B467C0AB29B582E4005FE3CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B467C0AA29B582E4005FE3CE /* ContentView.swift */; };
 		B467C0AD29B582E6005FE3CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B467C0AC29B582E6005FE3CE /* Assets.xcassets */; };
 		B467C0B129B582E6005FE3CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B467C0B029B582E6005FE3CE /* Preview Assets.xcassets */; };
+		B46B37B629B5833700CF3EA3 /* BgMaterials.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379029B5833700CF3EA3 /* BgMaterials.swift */; };
+		B46B37B729B5833700CF3EA3 /* IfLetGuardpractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379129B5833700CF3EA3 /* IfLetGuardpractice.swift */; };
+		B46B37B829B5833700CF3EA3 /* AppStoragePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379229B5833700CF3EA3 /* AppStoragePractice.swift */; };
+		B46B37B929B5833700CF3EA3 /* ViewModelpractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379329B5833700CF3EA3 /* ViewModelpractice.swift */; };
+		B46B37BA29B5833700CF3EA3 /* Popover.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379429B5833700CF3EA3 /* Popover.swift */; };
+		B46B37BB29B5833700CF3EA3 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379629B5833700CF3EA3 /* ProfileView.swift */; };
+		B46B37BC29B5833700CF3EA3 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379729B5833700CF3EA3 /* IntroView.swift */; };
+		B46B37BD29B5833700CF3EA3 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379829B5833700CF3EA3 /* OnboardingView.swift */; };
+		B46B37BE29B5833700CF3EA3 /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379929B5833700CF3EA3 /* PickerView.swift */; };
+		B46B37BF29B5833700CF3EA3 /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379A29B5833700CF3EA3 /* Documentation.swift */; };
+		B46B37C029B5833700CF3EA3 /* ScrollViewReaderpra.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379B29B5833700CF3EA3 /* ScrollViewReaderpra.swift */; };
+		B46B37C129B5833700CF3EA3 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379C29B5833700CF3EA3 /* ConditionalBootcamp.swift */; };
+		B46B37C229B5833700CF3EA3 /* FocusStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379D29B5833700CF3EA3 /* FocusStateView.swift */; };
+		B46B37C329B5833700CF3EA3 /* MagnificationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379E29B5833700CF3EA3 /* MagnificationGestureView.swift */; };
+		B46B37C429B5833700CF3EA3 /* badgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B379F29B5833700CF3EA3 /* badgeView.swift */; };
+		B46B37C529B5833700CF3EA3 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A029B5833700CF3EA3 /* ListView.swift */; };
+		B46B37C629B5833700CF3EA3 /* TextfieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A129B5833700CF3EA3 /* TextfieldView.swift */; };
+		B46B37C729B5833700CF3EA3 /* LongGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A229B5833700CF3EA3 /* LongGesture.swift */; };
+		B46B37C829B5833700CF3EA3 /* ToggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A329B5833700CF3EA3 /* ToggleView.swift */; };
+		B46B37C929B5833700CF3EA3 /* List2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A429B5833700CF3EA3 /* List2View.swift */; };
+		B46B37CA29B5833700CF3EA3 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A529B5833700CF3EA3 /* BindingBootcamp.swift */; };
+		B46B37CB29B5833700CF3EA3 /* Modelpractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A629B5833700CF3EA3 /* Modelpractice.swift */; };
+		B46B37CC29B5833700CF3EA3 /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A729B5833700CF3EA3 /* AlertView.swift */; };
+		B46B37CD29B5833700CF3EA3 /* SubmitTextfieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A829B5833700CF3EA3 /* SubmitTextfieldView.swift */; };
+		B46B37CE29B5833700CF3EA3 /* NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37A929B5833700CF3EA3 /* NavigationView.swift */; };
+		B46B37CF29B5833700CF3EA3 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37AA29B5833700CF3EA3 /* AnimationBootcamp.swift */; };
+		B46B37D029B5833700CF3EA3 /* ActionsheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37AB29B5833700CF3EA3 /* ActionsheetView.swift */; };
+		B46B37D129B5833700CF3EA3 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37AC29B5833700CF3EA3 /* StateBootcamp.swift */; };
+		B46B37D229B5833700CF3EA3 /* TextEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37AD29B5833700CF3EA3 /* TextEditorView.swift */; };
+		B46B37D329B5833700CF3EA3 /* ContextMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37AE29B5833700CF3EA3 /* ContextMenuView.swift */; };
+		B46B37D429B5833700CF3EA3 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37AF29B5833700CF3EA3 /* AnimationTimingBootcamp.swift */; };
+		B46B37D529B5833700CF3EA3 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B029B5833700CF3EA3 /* TransitionBootcamp.swift */; };
+		B46B37D629B5833700CF3EA3 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B129B5833700CF3EA3 /* TernaryBootcamp.swift */; };
+		B46B37D729B5833700CF3EA3 /* RotationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B229B5833700CF3EA3 /* RotationGestureView.swift */; };
+		B46B37D829B5833700CF3EA3 /* Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B329B5833700CF3EA3 /* Sheets.swift */; };
+		B46B37D929B5833700CF3EA3 /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B429B5833700CF3EA3 /* AsyncImageView.swift */; };
+		B46B37DA29B5833700CF3EA3 /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B37B529B5833700CF3EA3 /* DragGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +57,43 @@
 		B467C0AC29B582E6005FE3CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B467C0AE29B582E6005FE3CE /* newPractice.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = newPractice.entitlements; sourceTree = "<group>"; };
 		B467C0B029B582E6005FE3CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B46B379029B5833700CF3EA3 /* BgMaterials.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BgMaterials.swift; sourceTree = "<group>"; };
+		B46B379129B5833700CF3EA3 /* IfLetGuardpractice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IfLetGuardpractice.swift; sourceTree = "<group>"; };
+		B46B379229B5833700CF3EA3 /* AppStoragePractice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppStoragePractice.swift; sourceTree = "<group>"; };
+		B46B379329B5833700CF3EA3 /* ViewModelpractice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewModelpractice.swift; sourceTree = "<group>"; };
+		B46B379429B5833700CF3EA3 /* Popover.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Popover.swift; sourceTree = "<group>"; };
+		B46B379629B5833700CF3EA3 /* ProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		B46B379729B5833700CF3EA3 /* IntroView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		B46B379829B5833700CF3EA3 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		B46B379929B5833700CF3EA3 /* PickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
+		B46B379A29B5833700CF3EA3 /* Documentation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
+		B46B379B29B5833700CF3EA3 /* ScrollViewReaderpra.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderpra.swift; sourceTree = "<group>"; };
+		B46B379C29B5833700CF3EA3 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
+		B46B379D29B5833700CF3EA3 /* FocusStateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FocusStateView.swift; sourceTree = "<group>"; };
+		B46B379E29B5833700CF3EA3 /* MagnificationGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MagnificationGestureView.swift; sourceTree = "<group>"; };
+		B46B379F29B5833700CF3EA3 /* badgeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = badgeView.swift; sourceTree = "<group>"; };
+		B46B37A029B5833700CF3EA3 /* ListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		B46B37A129B5833700CF3EA3 /* TextfieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextfieldView.swift; sourceTree = "<group>"; };
+		B46B37A229B5833700CF3EA3 /* LongGesture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LongGesture.swift; sourceTree = "<group>"; };
+		B46B37A329B5833700CF3EA3 /* ToggleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToggleView.swift; sourceTree = "<group>"; };
+		B46B37A429B5833700CF3EA3 /* List2View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = List2View.swift; sourceTree = "<group>"; };
+		B46B37A529B5833700CF3EA3 /* BindingBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		B46B37A629B5833700CF3EA3 /* Modelpractice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Modelpractice.swift; sourceTree = "<group>"; };
+		B46B37A729B5833700CF3EA3 /* AlertView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
+		B46B37A829B5833700CF3EA3 /* SubmitTextfieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubmitTextfieldView.swift; sourceTree = "<group>"; };
+		B46B37A929B5833700CF3EA3 /* NavigationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationView.swift; sourceTree = "<group>"; };
+		B46B37AA29B5833700CF3EA3 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		B46B37AB29B5833700CF3EA3 /* ActionsheetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActionsheetView.swift; sourceTree = "<group>"; };
+		B46B37AC29B5833700CF3EA3 /* StateBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		B46B37AD29B5833700CF3EA3 /* TextEditorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextEditorView.swift; sourceTree = "<group>"; };
+		B46B37AE29B5833700CF3EA3 /* ContextMenuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContextMenuView.swift; sourceTree = "<group>"; };
+		B46B37AF29B5833700CF3EA3 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
+		B46B37B029B5833700CF3EA3 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		B46B37B129B5833700CF3EA3 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
+		B46B37B229B5833700CF3EA3 /* RotationGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotationGestureView.swift; sourceTree = "<group>"; };
+		B46B37B329B5833700CF3EA3 /* Sheets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sheets.swift; sourceTree = "<group>"; };
+		B46B37B429B5833700CF3EA3 /* AsyncImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
+		B46B37B529B5833700CF3EA3 /* DragGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +126,7 @@
 		B467C0A729B582E4005FE3CE /* newPractice */ = {
 			isa = PBXGroup;
 			children = (
+				B46B378F29B5833700CF3EA3 /* Views */,
 				B467C0A829B582E4005FE3CE /* newPracticeApp.swift */,
 				B467C0AA29B582E4005FE3CE /* ContentView.swift */,
 				B467C0AC29B582E6005FE3CE /* Assets.xcassets */,
@@ -67,6 +142,59 @@
 				B467C0B029B582E6005FE3CE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B46B378F29B5833700CF3EA3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B46B379029B5833700CF3EA3 /* BgMaterials.swift */,
+				B46B379129B5833700CF3EA3 /* IfLetGuardpractice.swift */,
+				B46B379229B5833700CF3EA3 /* AppStoragePractice.swift */,
+				B46B379329B5833700CF3EA3 /* ViewModelpractice.swift */,
+				B46B379429B5833700CF3EA3 /* Popover.swift */,
+				B46B379929B5833700CF3EA3 /* PickerView.swift */,
+				B46B379A29B5833700CF3EA3 /* Documentation.swift */,
+				B46B379B29B5833700CF3EA3 /* ScrollViewReaderpra.swift */,
+				B46B379C29B5833700CF3EA3 /* ConditionalBootcamp.swift */,
+				B46B379D29B5833700CF3EA3 /* FocusStateView.swift */,
+				B46B379E29B5833700CF3EA3 /* MagnificationGestureView.swift */,
+				B46B379F29B5833700CF3EA3 /* badgeView.swift */,
+				B46B37A029B5833700CF3EA3 /* ListView.swift */,
+				B46B37A129B5833700CF3EA3 /* TextfieldView.swift */,
+				B46B37A229B5833700CF3EA3 /* LongGesture.swift */,
+				B46B37A329B5833700CF3EA3 /* ToggleView.swift */,
+				B46B37A429B5833700CF3EA3 /* List2View.swift */,
+				B46B37A529B5833700CF3EA3 /* BindingBootcamp.swift */,
+				B46B37A629B5833700CF3EA3 /* Modelpractice.swift */,
+				B46B37A729B5833700CF3EA3 /* AlertView.swift */,
+				B46B37A829B5833700CF3EA3 /* SubmitTextfieldView.swift */,
+				B46B37A929B5833700CF3EA3 /* NavigationView.swift */,
+				B46B37AA29B5833700CF3EA3 /* AnimationBootcamp.swift */,
+				B46B37AB29B5833700CF3EA3 /* ActionsheetView.swift */,
+				B46B37AC29B5833700CF3EA3 /* StateBootcamp.swift */,
+				B46B37AD29B5833700CF3EA3 /* TextEditorView.swift */,
+				B46B37AE29B5833700CF3EA3 /* ContextMenuView.swift */,
+				B46B37AF29B5833700CF3EA3 /* AnimationTimingBootcamp.swift */,
+				B46B37B029B5833700CF3EA3 /* TransitionBootcamp.swift */,
+				B46B37B129B5833700CF3EA3 /* TernaryBootcamp.swift */,
+				B46B37B229B5833700CF3EA3 /* RotationGestureView.swift */,
+				B46B37B329B5833700CF3EA3 /* Sheets.swift */,
+				B46B37B429B5833700CF3EA3 /* AsyncImageView.swift */,
+				B46B37B529B5833700CF3EA3 /* DragGestureView.swift */,
+				B46B379529B5833700CF3EA3 /* OnboardingViews */,
+			);
+			name = Views;
+			path = newPractice/Views;
+			sourceTree = SOURCE_ROOT;
+		};
+		B46B379529B5833700CF3EA3 /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				B46B379629B5833700CF3EA3 /* ProfileView.swift */,
+				B46B379729B5833700CF3EA3 /* IntroView.swift */,
+				B46B379829B5833700CF3EA3 /* OnboardingView.swift */,
+			);
+			path = OnboardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,8 +267,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B46B37BB29B5833700CF3EA3 /* ProfileView.swift in Sources */,
+				B46B37C429B5833700CF3EA3 /* badgeView.swift in Sources */,
+				B46B37B629B5833700CF3EA3 /* BgMaterials.swift in Sources */,
+				B46B37C729B5833700CF3EA3 /* LongGesture.swift in Sources */,
+				B46B37C229B5833700CF3EA3 /* FocusStateView.swift in Sources */,
+				B46B37D329B5833700CF3EA3 /* ContextMenuView.swift in Sources */,
+				B46B37CC29B5833700CF3EA3 /* AlertView.swift in Sources */,
+				B46B37DA29B5833700CF3EA3 /* DragGestureView.swift in Sources */,
+				B46B37B729B5833700CF3EA3 /* IfLetGuardpractice.swift in Sources */,
+				B46B37BD29B5833700CF3EA3 /* OnboardingView.swift in Sources */,
 				B467C0AB29B582E4005FE3CE /* ContentView.swift in Sources */,
+				B46B37D729B5833700CF3EA3 /* RotationGestureView.swift in Sources */,
+				B46B37BE29B5833700CF3EA3 /* PickerView.swift in Sources */,
+				B46B37D129B5833700CF3EA3 /* StateBootcamp.swift in Sources */,
+				B46B37C529B5833700CF3EA3 /* ListView.swift in Sources */,
+				B46B37CF29B5833700CF3EA3 /* AnimationBootcamp.swift in Sources */,
+				B46B37D929B5833700CF3EA3 /* AsyncImageView.swift in Sources */,
 				B467C0A929B582E4005FE3CE /* newPracticeApp.swift in Sources */,
+				B46B37D829B5833700CF3EA3 /* Sheets.swift in Sources */,
+				B46B37C129B5833700CF3EA3 /* ConditionalBootcamp.swift in Sources */,
+				B46B37BC29B5833700CF3EA3 /* IntroView.swift in Sources */,
+				B46B37D229B5833700CF3EA3 /* TextEditorView.swift in Sources */,
+				B46B37D029B5833700CF3EA3 /* ActionsheetView.swift in Sources */,
+				B46B37D429B5833700CF3EA3 /* AnimationTimingBootcamp.swift in Sources */,
+				B46B37CD29B5833700CF3EA3 /* SubmitTextfieldView.swift in Sources */,
+				B46B37C829B5833700CF3EA3 /* ToggleView.swift in Sources */,
+				B46B37C629B5833700CF3EA3 /* TextfieldView.swift in Sources */,
+				B46B37C929B5833700CF3EA3 /* List2View.swift in Sources */,
+				B46B37BF29B5833700CF3EA3 /* Documentation.swift in Sources */,
+				B46B37CE29B5833700CF3EA3 /* NavigationView.swift in Sources */,
+				B46B37B829B5833700CF3EA3 /* AppStoragePractice.swift in Sources */,
+				B46B37D529B5833700CF3EA3 /* TransitionBootcamp.swift in Sources */,
+				B46B37CB29B5833700CF3EA3 /* Modelpractice.swift in Sources */,
+				B46B37CA29B5833700CF3EA3 /* BindingBootcamp.swift in Sources */,
+				B46B37D629B5833700CF3EA3 /* TernaryBootcamp.swift in Sources */,
+				B46B37C329B5833700CF3EA3 /* MagnificationGestureView.swift in Sources */,
+				B46B37B929B5833700CF3EA3 /* ViewModelpractice.swift in Sources */,
+				B46B37BA29B5833700CF3EA3 /* Popover.swift in Sources */,
+				B46B37C029B5833700CF3EA3 /* ScrollViewReaderpra.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
